@@ -2,6 +2,8 @@
 name = "versa_core"
 version = "0.1.0"
 edition = "2021"
+description = "A versatile plugin API designed as a core framework for building dynamic, static, or hybrid extensible applications across various platforms."
+license = "Apache-2.0"
 
 [dependencies]
 atomic = "0.6.0"
